@@ -2,3 +2,4 @@ openanolis/anolisos:23
 openanolis/anolisos:8
 opencloudos/opencloudos:8.6
 openeuler/openeuler:20.03-lts-sp3
+ubuntu:18.04
